@@ -1,0 +1,10 @@
+mass = 1
+nx = 1500
+x_min = -2.5
+x_max = 2.5
+dt = 1e-6
+nt = 7500
+nprint = 11
+user_output = 1
+
+wf_output = data/wf_barr_350.dat
